@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    stroke: black;
+}
+header a {
+   text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    stroke: black; 
+    border:1px solid black;
+    border-radius: 30px;
+    background-color: palevioletred;
+    margin: 20px;
+    padding: 10px;
+    
+
+}
+a{
+    text-decoration: none;
+    
+}
+
+.byu{
+    border:1px solid black;
+    border-radius: 30px;
+    background-color: palevioletred;
+    color: white;
+    text-align: center;
+}
+nav{
+    padding: 20px;
+    
+}
+
+
+
+
+
+
+
+
