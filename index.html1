@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Про нас</title>
+    </head>
+
+    <body>
+        <header>
+        Про нас
+        </header>
+        <main>
+           <p> Ми виготовляємо макарони з відбірних сортів пшениці<br/>
+            Ми використовуємо як і кукурудзяну муку так і гречану<br/>
+            На головній сторінці можете дізнатись ще<br/>
+            Ми турбуємось про наших клієнтів<br/>
+            тому робимо ціни доступні для кожного<br/>
+            Ми завжди повідомляємо про зміни</p>
+            <ul>
+                <li>300грам 50грн</li>
+                <li>450грам 70грн</li>
+                <li>1кг 140грн</li>
+            </ul>
+        </main>
+        <footer><img src="	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv7p0A7g0VVMImnlzuGRLvEEKF6_XPLShMaQ&usqp=CAU"width="50px" height="auto">Наш телеграм:vladmaluk<br/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRymq4ZkBFLabDId-O76QMTwFo4MAfx1Oxjw&usqp=CAU" width="50px"
+            height="auto">Наш номер телефона:096 803 54 21</footer>
+    </body>
+</html>
